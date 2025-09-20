@@ -1,0 +1,49 @@
+header {
+    padding: 10px 10px;
+    width: 100%;
+    background-color: rgb(224, 234, 234);
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content:space-around;
+    align-items :baseline;  
+    text-size-adjust: auto;
+}
+
+
+.navbar li {
+    display: inline;
+    color: rgb(94, 12, 12);
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bolder;
+    word-spacing: 30px;
+    
+}
+a:link{
+    color: gray;
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(195, 39, 39);
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  transform: translateY(1px); /* brief pressed effect */
+}
+
+.titles h1 {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 70px;
+      margin-bottom: 0;
+}
+.titles h2{
+    margin-top: 0%;
+    font-style: oblique;
+    text-decoration-style: wavy;
+    color: firebrick;
+
+}
