@@ -9,8 +9,6 @@ header {
     align-items :baseline;  
     text-size-adjust: auto;
 }
-
-
 .navbar li {
     display: inline;
     color: rgb(94, 12, 12);
@@ -46,4 +44,24 @@ a:active {
     text-decoration-style: wavy;
     color: firebrick;
 
+}
+
+.section{
+    padding-left: 100px;
+
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: brown;
+    font-size: x-large;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-left: 30%;
+}
+p{
+    font-size: larger;
 }
